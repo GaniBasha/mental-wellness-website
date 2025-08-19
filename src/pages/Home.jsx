@@ -1,12 +1,13 @@
 // src/pages/Home.jsx
 import React from "react";
+import homeBg from "../assets/home-bg.jpg"; // ✅ Importing directly
 
 const Home = () => {
   return (
     <div
       className="h-screen w-full bg-cover bg-center flex items-center justify-center"
       style={{
-        backgroundImage: `url(${process.env.PUBLIC_URL}/images/home-bg.jpg)`,
+        backgroundImage: `url(${homeBg})`, // ✅ Use imported image
       }}
     >
       <h1 className="text-white text-3xl md:text-5xl font-bold text-center px-4">
