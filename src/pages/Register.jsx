@@ -11,7 +11,7 @@ const Register = () => {
     e.preventDefault();
     try {
       const res = await axios.post(
-        `${process.env.REACT_APP_BACKEND_URL}/auth/register`,
+        `${process.env.REACT_APP_BACKEND_URL}/api/auth/register`,
         formData
       );
       localStorage.setItem("token", res.data.token);
