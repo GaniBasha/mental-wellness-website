@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mental-wellness-website/static/css/main.bd2857bd.css",
-    "main.js": "/mental-wellness-website/static/js/main.6cf1557e.js",
+    "main.js": "/mental-wellness-website/static/js/main.f520e7a9.js",
     "static/media/spirituality4.jpg": "/mental-wellness-website/static/media/spirituality4.d97132cd35193a3c0796.jpg",
     "static/media/life6.jpg": "/mental-wellness-website/static/media/life6.c47584ddc1ee2fba5011.jpg",
     "static/media/family7.jpg": "/mental-wellness-website/static/media/family7.80ddb41cbfb9a7ef9a46.jpg",
@@ -64,10 +64,10 @@
     "static/media/education1.jpg": "/mental-wellness-website/static/media/education1.cfa14152195cb453f60e.jpg",
     "index.html": "/mental-wellness-website/index.html",
     "main.bd2857bd.css.map": "/mental-wellness-website/static/css/main.bd2857bd.css.map",
-    "main.6cf1557e.js.map": "/mental-wellness-website/static/js/main.6cf1557e.js.map"
+    "main.f520e7a9.js.map": "/mental-wellness-website/static/js/main.f520e7a9.js.map"
   },
   "entrypoints": [
     "static/css/main.bd2857bd.css",
-    "static/js/main.6cf1557e.js"
+    "static/js/main.f520e7a9.js"
   ]
 }
